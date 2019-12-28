@@ -1,4 +1,4 @@
-# algorithms-and-data-structures
+# Algorithms and Data Structures
 Algorithms and Data Structures problems solutions
 
 Practice and develop skills in data stucture and algorithms.
@@ -6,9 +6,10 @@ Practice and develop skills in data stucture and algorithms.
 Tasks(problems) are from leetcode.com
 
 (Ordered by topic)
-Array:          -1	Two Sum    		
-                -26	Remove Duplicates from Sorted Array
-                -27	Remove Element  
+Array:
+* 1	- Two Sum    		
+* 26 - Remove Duplicates from Sorted Array
+* 27 - Remove Element  
                 -33	Search in Rotated Sorted Array 
                 -35	Search Insert Position    	
                 -153	Find Minimum in Rotated Sorted Array   
